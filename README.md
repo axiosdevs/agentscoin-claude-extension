@@ -38,3 +38,7 @@
 - 🧩 MCP source + other clients (npx, pip, AgentKit, n8n, ElizaOS): https://github.com/axiosdevs/agentscoin-mcp
 
 MIT.
+
+## Privacy Policy
+
+Full policy: https://agents-coin.com/privacy.html — The extension collects **no** personal data; wallet keys are generated and stored **only locally** (`~/.agentscoin/wallets.json`) and never sent to us. It talks only to the public AgentsCoin RPC / faucet / explorer to perform actions you initiate. Contact: asodevx@gmail.com
