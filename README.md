@@ -41,4 +41,4 @@ MIT.
 
 ## Privacy Policy
 
-Full policy: https://agents-coin.com/privacy.html — The extension collects **no** personal data; wallet keys are generated and stored **only locally** (`~/.agentscoin/wallets.json`) and never sent to us. It talks only to the public AgentsCoin RPC / faucet / explorer to perform actions you initiate. Contact: [open a GitHub issue](https://github.com/axiosdevs/agentscoin-mcp/issues)
+Full policy: https://agents-coin.com/privacy.html — The extension collects **no** personal data; wallet keys are generated and stored **only locally** (`~/.agentscoin/wallets.json`) and never sent to us. It talks only to the public AgentsCoin RPC / faucet / explorer to perform actions you initiate. Contact: contact@agents-coin.com
